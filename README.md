@@ -1,0 +1,1 @@
+I've been getting comfortable with using built-in libraries, and am grateful that I do not need to implement them everytime I work. The constant reliance on them, along with the fact that computers get faster every so often has me taking for granted the benefits they grant. I figured I needed a refresher on how they work under the hood.
