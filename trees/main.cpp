@@ -20,7 +20,7 @@ void createPerfectBinaryTree(int a, Node * root) {
 }
 
 void deleteTree(Node * tree) {
-	if (root != nullptr) {
+	if (tree != nullptr) {
 		deleteTree(tree->left);
 		deletetree(tree->right);
 		delete this;
